@@ -1,1 +1,377 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _omemsEzZyzSi = a; end)); return(function(c,...)local n;local o;local b;local s;local a;local h;local e=24915;local l=0;local f={};while l<971 do l=l+1;while l<0x370 and e%0x8e6<0x473 do l=l+1 e=(e-362)%35080 local d=l+e if(e%0x1d88)>=0xec4 then e=(e*0x235)%0x979 while l<0xf1 and e%0x1206<0x903 do l=l+1 e=(e-402)%12740 local h=l+e if(e%0x37ee)>0x1bf7 then e=(e+0x3e6)%0x43d4 local e=31246 if not f[e]then f[e]=0x1 a=tonumber;end elseif e%2~=0 then e=(e*0x188)%0x26ce local e=88890 if not f[e]then f[e]=0x1 n=getfenv and getfenv();end else e=(e+0x12)%0x5936 l=l+1 local e=66698 if not f[e]then f[e]=0x1 n=(not n)and _ENV or n;end end end elseif e%2~=0 then e=(e-0x3e)%0x64e1 while l<0x1dc and e%0x485c<0x242e do l=l+1 e=(e-882)%33334 local b=l+e if(e%0x2a68)<=0x1534 then e=(e*0x33a)%0x9fa9 local e=32216 if not f[e]then f[e]=0x1 s={};end elseif e%2~=0 then e=(e*0x275)%0xbb45 local e=35595 if not f[e]then f[e]=0x1 h=function(h)local e=0x01 local function f(l)e=e+l return h:sub(e-l,e-0x01)end while true do local l=f(0x01)if(l=="\5")then break end local e=o.byte(f(0x01))local e=f(e)if l=="\2"then e=s.aYqFaYCR(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then n[e]=function(e,l)return c(8,nil,c,l,e)end elseif l=="\4"then e=n[e]elseif l=="\0"then e=n[e][f(o.byte(f(0x01)))];end local l=f(0x08)s[l]=e end end end else e=(e*0x73)%0xb89d l=l+1 local e=91883 if not f[e]then f[e]=0x1 o=string;end end end else e=(e+0xc1)%0xb5dd l=l+1 while l<0x201 and e%0x4dd8<0x26ec do l=l+1 e=(e*199)%45527 local n=l+e if(e%0xbd4)>0x5ea then e=(e+0x7b)%0x5d12 local e=7679 if not f[e]then f[e]=0x1 end elseif e%2~=0 then e=(e-0x392)%0x7378 local e=78644 if not f[e]then f[e]=0x1 end else e=(e*0xfa)%0x7b38 l=l+1 local e=21834 if not f[e]then f[e]=0x1 b="\4\8\116\111\110\117\109\98\101\114\97\89\113\70\97\89\67\82\0\6\115\116\114\105\110\103\4\99\104\97\114\71\121\67\72\110\70\82\105\0\6\115\116\114\105\110\103\3\115\117\98\77\117\106\80\112\108\66\95\0\6\115\116\114\105\110\103\4\98\121\116\101\65\66\90\80\122\95\107\68\0\5\116\97\98\108\101\6\99\111\110\99\97\116\105\84\81\109\111\71\66\77\0\5\116\97\98\108\101\6\105\110\115\101\114\116\80\72\120\83\111\108\90\110\5";end end end end end e=(e+746)%30557 end h(b);local l={};for e=0x0,0xff do local f=s.GyCHnFRi(e);l[e]=f;l[f]=e;end local function d(e)return l[e];end local o=(function(b,o)local c,f=0x01,0x10 local l={{},{},{}}local n=-0x01 local e=0x01 local h=b while true do l[0x03][s.MujPplB_(o,e,(function()e=c+e return e-0x01 end)())]=(function()n=n+0x01 return n end)()if n==(0x0f)then n=""f=0x000 break end end local n=#o while e<n+0x01 do l[0x02][f]=s.MujPplB_(o,e,(function()e=c+e return e-0x01 end)())f=f+0x01 if f%0x02==0x00 then f=0x00 s.PHxSolZn(l[0x01],(d((((l[0x03][l[0x02][0x00]]or 0x00)*0x10)+(l[0x03][l[0x02][0x01]]or 0x00)+h)%0x100)));h=b+h;end end return s.iTQmoGBM(l[0x01])end);h(o(130,":rP-^A%CO46<#0W_O-"));h(o(40,"1BU/u, Z:!S7Q6kv6:7 v76uSSZ!, UZ!Q6u76:6 ://kSQ!QuSC,u,SUv!u 67WZ7,B/uzQ77!U!S :BQvZv7QQ/!B,,:/UsB6k7Q!u QBSxBv/SU:B,Ukj7k+/6Q7U:B,kUvS,k,7B!Q /uav/Q66uSS v,:B,66ZOuQ:6,!uuBl:,Qu!u 6,:U:2Z6!7/ v SUSBuQk,u/uZ//6Uuv,Q,SQZB,QUBvS6QS6Z ,bB7v,kvQBZ,,Iku7vk Q6S/:Q,v/S6/kB7::vZ,uQtvvUSv/QBu,vUBaBkuS!ZZ/Qu{k6Q/S/ZSbSkBvBv76Z:v B,:uUv,Q7,u/MZuuZU/vQ6USBZkuv/zk!66!/ :  /UvS:.,6Su !uUUuv, k7,:  DU!h/k/!u:ku:uwB7vuQkZ7Bukk/,h k-S!:/ /U UBkSSk!S,B,ZBS!u 67d:S,!/ Bu6O!6Z6,v,GU:kkQB/QB ,7U,Ou6,S7!uu6/vBSv QvZSZ uu7:!u6,SB:Q,:Q63 ku7v!ZZUUv3!kP6<!S S/BB:!6"));local e=(-20879+(function()local n,f=0,1;(function(l,e)l(l(l and l,e),e(e and e,e))end)(function(e,l)if n>418 then return e end n=n+1 f=(f*853)%34244 if(f%968)>484 then return e(e(e,e and e),e(l,e))else return l end return l end,function(e,l)if n>479 then return e end n=n+1 f=(f+257)%31922 if(f%592)>296 then return e else return e(l(e,l and e),e(e,e and l))end return e(l(e,e and l),e(l,l))end)return f;end)())local t=s.VyjVjIwb or s.DfHhklnC;local he=(getfenv)or(function()return _ENV end);local h=3;local j=1;local n=2;local b=4;local function ne(k,...)local d=o(e,"1G9f>hlcU/boS<,?U/S99fU>,hhabcXUl/vS/c?ohSo9HfcU<lf?/U/>&ohlocGUS,>Ub>G9l9<*f9UG,<g9/b}hcG<9,cc?,bhlolGGc?,GS?f//G?9hf*9cb,<G/b<g<l,Sb9bG<//<?>#bGhc<G9</o,oh/oo;bclUoX,bl?,h{Sf9>cc,h?>c/?cl/Sf</h,,;h>f<b<??lzSG/c?G><ookoc/<o9b/lboh,b,G9cw,9<G>t/f?>hh?oUb,UFh/6e>c9S9fC>o,ShTbhd,p>c>Sl9cUUfho?GUl,<9>_>?r>lboh99Uf,f?ll//UCShbooGS<9>SbUGlll<>flUh?GYlU<,<9/b?fU/oBGhfS9oYGUc9<ff>,Uhoob9SU9,/>/fSS,?,h?S2l<?chDbl&bcUUcfSb9,<hbobS<>wU?9oUG<ffSb9R/flSo9cUU,l9ccS?,cf<f9?l,,lhUo>3bh9bc9?Ub?ch#USGbc<<f>fS,o9Gcc><hfl?,h/SlG?GoU9<<f,/?hfS>f>US?>h/>lo(&Ul/Sbl,?,h9b?9fcho<fo/h/>4>hlocGUSo>/c<2UlSolG,cf,>h>bSG>c/Sof/9Ubc,b>obSl9<SfUbl?ll>SlGhUG/l9c/<RolcoS9bU9,Shfl;?>lbSS9b//blffocPSchlo</9<U,,?b?9&c?<U>GbU<ocGo9f9/>S,>hf<Sh??l(SGcl,o><oUSll<<GfhU?bolfb,9G9?,K>fbGkch/oU9bcS<S?/oG&>c:Sh<,lS,?h=o{?ll/SU,lc<oo,/h>boLSl<GS/>rc>>ocGlUU<,>hbh/UG>hbooGS<9>SbUGlll<>flUh?G l/bG?cU<S9?>SS,lfSfG?fGo<fSb*gGhoS/oU9lcb<ofSJ/cfS2,q/U,chhb/ShhS/o?lhSUb?S>Sb<p,S>f,/bQUhUSl9Ucc,f?Uc?<?Gool9SU<,S,HhGb9Rfl>9oUc?9><l/G>cb<hfo>,?ll9S.9cUf,c<hhf/c?Uh/?,cS,,>Uh,?choS9fc/c?f4hbSGqc><h9?/<oU>>o<G,c>/<>//>)-luofoc9lc/<bfo,/lSSu9UUS,lx9b/G%c,Ul9,/<?9,b>,bS3<l,fob>Sf?9hSo>Ghcl>Sblw9cuSI9,/^<?>o>Ebo49lfS>/G?h>UbSGSc,<<fh/o?h,?looGG9cf9/bf??l<o<9oU<<S>Uh<<?l<<>9b>9Sh>hofSlc>S<fS/<,Shfo9S,A?cc<Gf9/ffSS/9bUco?f,b,/oQCh<o,G?,Shhl9<hM>lbSl9cUUf<//,ShZS8S,>U/5?Gh9ZeUf,>>>Ub?<hSo/J,/^,?>cb<vcc>bb9SUU,/>ooh,/c<<,f<9S/f,,>?o&h?<c>bUU?lhUhcSSG/cb<o/GBolc<h9h/f?h>>o&Shc9SU9?>/?<hDo,9fcf,G<_f?/9?fh>?/Uo,cf<h/,<l?SG9<f,Soh>lG<>LfUhSh9lUchHo<G,co<?!ch<o,lNo99hUc</fc/?Nh9loS9/UUbo>?/?Gl9?<c9UU/oh>c/c,n>,l/<>9oUS,<bGG9U9<b>9bco>lGSb,/GUU,<bfo/Sh9SS9U/l,lh>olDhcGUl9</>^9IbbSGbcS,9fc/hwf?9hoo>GhclGUbl?Sh?S,fOUS?3<?hcbG+9lfG//f,?h<b<Goc<SSfU><mGh>oh<Gch<ofhb/ollfSc9OU<U?<Sf</,qfl;SG99Uf,o>hblOco(f</,?offo999!?c><Gf9/fhool9fcScU,ffb/o?SS/9<U_,>h>olGhl<<f9<9c<o,/>bboc>,G>9/?&f9oUG,9Ul<l><lh??l9S,9f/G<?hfo9)hcfShf9/9?/>oohGSfcS<fb//oSh9o;99cS,b>b/<Yf9hooG/Uo,hhfb?BScf<G9fUl?l>ob<GfcG,sfc/,?,hbSG9Rcf<ffGbf?<loUf99cc,)>llU?,hSS,9U/lc?,K>Gb98ol>Sh9l//hG>/bbiol?S<9,U?P9h>o9G>c><cfl/c?Uc/ShGoc<<<f?/?zGlG<>9hU>,U>lbo:Ul/Sb9o/o,<>?b?GfcG<9ff/>t?hlocGUc/<bf</S?<llo?9VUG,f>fbhxhll}b9UU/,b>SbS3<l,S?>>/G?9hfo>GScl<cfU,Gl,S?9Sl>,fhf>5bl:9lfS>Ul,bh>oGGcwbc;SS9<U,l9S>G9cU</<>fS/l?chUG,/9,o>UbSJccflDSc99Uf,>ocvocc<cfo/,Uo?>><b,t?S9fl/f?llUo,9hUhcU<,fb/o?SSk9lU>,Ghh>9bUp>lhSl/l??hcb?G<)SccS,9?/yh<SGG>cU,U>bb/ GlcSGooG?c<<,f?_<c0SlSf9UUh,l>cGoc><f9?9S/>,,>?oMcU<c>c/o?bl>S<oU9!cb<ofS+ic0S>9G/h?Ghh>>,U5llcSU/G?,h?oS9r>U/,??bf?flbU9GSc?,o>{b,?Sc.S?99/3,9>?b?GllU<9f/h>,bhcol</hc,9f/lcSU9/Ub,Gh>,9>//?,/h<S/9/U<?gOSboEEl/S??GcU?9>,oSaScb<S9o/cUS?G>,b?GE<UffbA?/?hhbocGUc/>9/S??lUh,S<9FUG,9U/GfccSUf%US,<>?o/VfcS,*ffbf/G?bhfo>Gh<o>?/<?Sl?S?9oU?c,,f>CbG_9S>f9//,?,c>,b/Wblof?/-awhUSy9hGfcf<>fhb>?chUo/Gbb9<Sf</,9,<f9l/>?/>/ocG/floUf,US?chhoF,<U9<?>fbl,9llo/GoU/ohGbb<?,99S/9cUS,/hhc?<>f>/hSl9,UU,/>bGhco<lfSc<?hlUh9<hG>ch<l/?MSl<Sb9,hlbS{<blpGl,Scflh9?chhb/G>cU,9?/U??Shoc,9l>9bGfb/hX9hoSb,cG/c,<ofS/<lhSz9<UlU9,<>>bhklb,9</<<<hEo,9fcc<9fhfG/S?fh>ohl}Sb9cUc<?l/o?9SU9,>,qhUb9*fl>G/Uo?f><o/G/c<,;9G/<<?hSo9GhcUo<>fb/}oh/ScG<U4cS,>f,/?t#b/fl/c?>9SboGogUc>Sb9oUSfhS99fU7S>fcbh#bh,o/GSGUUU<bfo/ShGSf9oUh?GhGohGUhUSof//,?9><o!bSGcl,S?f{<o>hb9%9h/<ofbbc?<h?hoShG<c,<?ocGflo<c9/Uo,?hfb<b/GGloSS9<<,hooGG>ccoSfUfhbG?chUo/U<,u>,ofFfcG<f,?/h?lhc>lblyclU<U9bUo,S><o/y?cq<Gbh?UllSoGoU/,o4cb<-,l?h<SvG?Ux,GboBc{>lbSl9cUUffo/:<hh<GS,ff/a?Gh99bch<,>bfc/S?/hbooUp<,h9bqb4=ll9Sf9>?h>co8GbcSlb<G9SU<,,oUG,U><c>hbU/h??hcoUG/?G><bhGGlfSh9/U<,c,f>bbhtllcfG/S?*h>oUG9L,c/<IfG/9f<bcB>l>oS>l/S&/h?SGo<99c?,+>G)/l><G9b9lUS,U>/bbc?S<9?/b?>?Ih/o9Gfc>>c/o?UhSo?9fUc,G<<>U/?{elG+Scl<fffUbmSlo<U9,/mUS?G>,b?Gj<?fcbo&U?hhlocGUol<bfo/SO?,fo?9aUG,o>fb>3hcUU>9UUb,b>SbST<l,S?bu/G?9hfolGhcU<cf,,,?bhooS9/c,,y>Jb9K9lc9c9hUl,ch>b/^olo<,o9U,,?huo/G9cf<>>cSo?ch/o/Goco<Sf</,Gll5Sf99Uf,>>hbl9cUhS/9SUo,,><oU.?c_<9f9/c?>hholGccU</>f/o?,h<S9G?U.,G>9bl(>lhSl9cUU,b>bo</Gl<S,9?/<?Gh9of9lp/<lfU/U?bhbooGSc<,Uf?bp(Gl>Sf9lUh,ll>bUJblbSo9SU<,,l?olGGcf<ffh/h3>hcoU9ccb<,fS/<?,h?Sj9GUS,f>hbhN/lcSb9/Ub}h>Sb<m,cW<gfG/9Jhh/ohGccc,cf//b?ohS<bG,UG,.>9b9ifl>,h9,Uc,b>/bSHocGS<9,/b?sh>o9Glc><hfl/o?,h/obGool<<f?/?G9,lS99/U>?P>lbcBUU/lf9o/9,<h>b?GfcG<Uoh/>?bhl?GGUcb<b>G/SPGSGo?9_UGGS>fbh%hllb09UU?,b>SbSn<l,,Goh/G?/hfobGhcl<cfUfU?blfoSG<c,<?>*bGG9lfSo9hUU,chGb/ ,S,SS9<U,Ghhao9G9/fl<fhb9?ch<o/GSco,9oU/, blM,c99U>,>hGblIoSoS/9bUoG9><b?!?c)bbf9//?>hholGccU<?l</o8fh<,LG?UG,G>>bf7USUSl9cUU}o>bbSLScfGJ9?/l?GUSofGhch<lfc/ShShbooGSoc<,>)biGf,cSf9oUh?9>cbUL/Ub/o9S/>,,hlo%GUc9<ffS/h?,hcoUG/cb<ohSbl?,lUSQ9lU9,h>>bhGblcS?9//f,o><b<9XUo<4fU/9?oh>ohGlU/<<f/b9?oh<o<G,c?,{hbb9ZSl>Sh9lUc,Ul/,9DochS<fcU??bhGo9,zc>,yfl/c?Uh/obGo/h<<>c/?*olGS99fU>?f>lb,LUl/Sb9SUS??hSb?GccG<lff/>?hhlSSGUUk<bfS/S?,h,<?foUG,/>fb/ihlUSc9U/l,bh9bSu?l,S?f2/c9hhfohGhU?<cf///?ShoSiU=c,<?>#obH9l>S>9hS/,c>Ub/NoloSS9<U,G<hgoGG9Uh/Ufh/l?chSo/Gbco?Shc/,??l;SG99UU,>hcS9WclbS/ffUo,S><b,GocZ<Gf9/h?>hcol9/cb</fo/oHth<o,G?b2?l>9b>=>llSl9SUU?o>obos?l<<U9?/3?Gh9>GG>cl<lfb/U?ohb<oGSc<,!f?bBTGl<SfflbG,l>obU;<lbSo9Sb<?<>?o>GGcl<ffS/h#UlhoUG?cb<,fS/<?,cG<h9GU/,f>Ubhnllc,U9bUb?9>So>v,cS<z>fbl?fhSohGccc<Uf//b9:hSSfG,Uh,x>/b9MffUSh9bUc,,>/bbColS/o9,/G?LhGo9Ghc><ohl/c?oh/obGoc<<<>F/?iH?SS99fU>,h>lbc*Ul/lh9oUS,<hzb?G6cG,>GB/>?Uhlo/GUc/<b><9G?<lGo?99UG,9>fb>,fllSb9UUb,b><bSGfSfS?ff/GGbhfohGhcc<cfS?S?bhooS>hc,,V>ZofUclfSU9h/9,c>Ub/GSGUSSf9U,?<hjoGG9/f<cfh/S?chUo/9Pco<S>U/,jcl&SG99Uf,>>hS9 cl,S/f9Uo,S><b,Gcc0<hf9/f?>hlol9/U<</f,/o?,h<o,G?UT?o>9bc!>llSl9/UUD/U9boGGl<S?9?/c?Gl>,bG>cS<lfo/U?/hb<o9<c<,hf?bc!Gl?Sf9>Uc,l>?bU3<lbSo9SU<rh>?ohGGcb<ffh/h?blcoUG/cbeUfS/,?,c??U9GUl,f>hbh)<lc<bb,Ub?G>SoG+,l?<phG9o?fhbohGScc,hf//b/bhSS>G,U9,g>Gb9Zff?Sh9bUc,?>/bo=olSGP9,U??:h9o9Gfc><hh>/c?Uh/SS9,cS<<f,boi lGS99fUo,h>lbcA/l/SS9oUS?f>,oRG(c,<9ff/>WclGocGbc/,bfo/S?<c0SU9dU>,9>cb>Bhll</9/U/,,>oS+D<l,S?>9bU?9hUo>Gbcl<cfUboo<hoS9G<Uh<?>xbGG>l,S>9SUl?/>Ub/qbc<,U9</l,?hooGG9cf,l>,/lE.hUSGGbco<S>?o/??lbSG9?Uf,>>hoUGGlU<>9bU<,S><b,9Gcc<Gf,/f?chholGcUb/lfbbU?ScMo,G?Uq?f??bfG9lh<m9cUU,/>bfhxSl,S,f</_?9h9Sfbich<lfcb/?/hooo9,_9<,f?b:A<l9Sf9>UhS>>cbUv/loSo9,U<?E,GomG9c9<ff>/h?llc?cG/cb<o>9/<??h?<9fcU9,f>>b,&llcSUfo/l,o><b<G<l?<XfGo94bh>olGlcU<Ufb/bE<l9o<9Gc?,,>Gb9)fl><r9lUU,U>SbbColSS<f<U??3hGo9Gfcl<hflS<?Uh/obGScS<,f,/?>flGS99fUh,h>lbcPUl<Sb9oUS,<l<b?GXcGfbbcvUlhS/?G>cbU>b/St?cGSf9h//b?>/b><fhc<f9/U?o?>>SfG>fS,FfTbc/G?Shfo>Gh,9>l//?<l<S?9,Ul,S>l>Tbh{9lfS>US,ch>b<b/GGloSS9<<llfS>9Gh/<U>Ufh/l?chUS9Gbco<S>??c??l:SG9>Uf,>>hoUGSlUSb9bU,,S><b,9?U><Gff/f?hhhobGcUb<<fb/,?Sh,o,G?UW,G>>bf&UlhSc9cUU,/>boh3Sl,S,ff/m?Gh9of9bch<lfc/U?/hSooGSof<,f?b(P9l9S>9>Uh9/>cbUr/loSo9SU<,,hfokGGc9<fc</h?lhc9OU<,,>ob?<c9<U,f9U9?/GGboC,cbS?f<Uo??h,oGG?cG<,f,bh?clGSU,fc/,l>hlU,cl<b_9l/U?/>SblG>f>/fYl/>,b><oSG,cb<,?S/o?2h/o?,Gh>,9fU/o blSSU9Slo?Gf?bb6UlflGS,9fU>,hU,GocS</GG/n3y9,SG9Uc,<><9f</>?hhl9fUc<bf,b,GZl?Sc9<UcUG,l>fb>ZhS<9U/h,,,b>obSx<clS?f^/Gy>oSo>Ghcl<bfU//?bl<<9G<c?<?>>bGR9lf,>9/Ul,U>Ubbmbl<SSf?/>,?hfoGGfcf<>fh/lEfhUobGbc,<Sf</,??l?SG99Uf,>>hbU6clUS?9bUo,S>,b,G^ci<Gch/f?>hhocGccU</fb/??Sh<o,G?Ub,G>9bfc^<>9cUo?oh<oSG>cb<>S,fl/m?Gh9?oUU,/>lc,?<l<hb^9GSc<<,bcG>ch<9flh,o>Gho/(/U /Uf9/huGhlS>G9Ul,hfUbl?UlhSh9Sc,,U>?lbJQl<SS,?c/< 9U/f,o>S/l;,l,?chbSqG9UGol>h/bSGl*ohG,U>blG,c,tclb<z99/GSlhhbb<Il?</9l9lUo,U>/bbc9S<fb/fU??#hGo9GSc><hflb/hGh/obGoc<<<f,/?G9lcS99>U>,/>lbcJUU/<l9oU<,<>?b?G9cG,>>o/>?UhlobGUc/<bfobf?<l9o?9GUG,9>fb>G,llSU9UU<,b>obSI<ccS?fX/G?9hfolGhclg<fU//?bhSoSG,c,<?UfbG%9lfSh9hUl,c>Ub<JbloSS9</U,?hjoGc,,9fh//(/loSb99UU,9<S>G/,??lg9UUf?A>/>h?fXclUS//9??lAo<9G>//?F0b>?>loUfG<Um,S>Gb??<cG<R9f/G,fhmo3Gcl/<ffbhh,ohUoc<bh/S,>_/Ug/h9/U9UUl,9fcbh;cl?oo,blU,l>XoG2Gcf<o?9/G,l>?oh<cc,<U9bUf,,hbob+cc9<,f,//Pcl/hco?G/cb<oU>GGc9S?;cUl?l,f>>bh3lciSU9/Ub?<bhb<O,l?<GfG/9?fllS!GlcU<Ufo/b?ohS<<9Gc?,G>GbftflUShfUUS,U>SbbE,lSS<9,U?B>hGolGfch<hfl/c?UlSobGScS,Gf,/?O(lG<h9fU>,h>lbc#bl/SblGUS,<>,oWGIc9<9ff<c?hhlocG/c/<bfo/SW9h,o?9uUG,/>fb>qho/foU<?/fl/?<,#<cUS?fL/Gh,S9Ghc/,/>obbn9lUS9oS9>c,<?>K,/cl<cf>lS,oho>USf#bloSS/h(9lfS;9>>Sb9Ff/c??loUl9h/fbb9?oGVfl?of9>/>,Sh>o/G/IclSS/9bUoffb,Goc>cw<Gf9/f?<hholGcUbbSfb/o?Sh?o,G?UF?fhSbfihlhSo9cUU,/lbo?:Sl,S,f{/T?>h9ShGSch</fc/S?/hbooGS//<,>-b!(>l9Sf9>Uh?,>cbUP/lbSo9,U<4slLoEG9c9<>f>/h?lhc9/G/cb<of,/<??h?Sil>U9,f>>bl{llcSU9/U,,o>Sb<6,cl<tfG/9foSU9/Ulo,f<b</b??hSo<G,,l>Gb,Tc3fl,Sh9lUch>oU}ol?<?>GbD?Uh,oUo9hlc><hfl??lSS<9bU,olLSl<GGlG<U?eUb,<h/b,GSlb<,f</3?,h8o<G<U><l>XbcS9hUSh9>>c,,>9bciSclU<G>U,,bhUbUGlcUScffhc?l>oo>GbfSobfF/col9>UfeccU,U>5bUZ<?bhooSG<Uc<?>)bGG>oSS>9hUl,b>Ub/jbc<<U9<U?,?h9oGG9cf?>>c/l?UhUobGbcS<S>?bl??lfSG9lUf,>>hbl3SlUS<9bUS,S><b,)?cS<Gff/f?UhholGccU?Yfb/o?Sh<o,9GUK,GcUbf}>lhSc9cU/,/>b,,TSl<S,fL/_?Gh9ofG/ch<lfc/UDBhbooGSS<>bb5G/ll<>fl9>/A,l>cbUhh</9,U<?/f,ooGGUb<c>hf>/,?lhcoUl9,<9>bb,>c0S,fh/GU9,?>>bh#lS?fc/U?hhGSGGocG,ff/bz2!?fhUohGlccf?/b&clqh<o<G,c?,X>Gb9Hfl>Sh9lUc,o>/bbPolSbl9,U??5h9o9Gfc><hcf/c?Uh/oSGocS<<f,,95{lGS99>U>,h>lbcG&l/Sb9o/,S>>,b?G(ch<9ff/>XcceocG/c/<?fo/S?<c,So9CU9,9>>b>Tlll,cfGU/,o>ob<W<cYS?hgb<?9h>o>Glcl<bfU/oUShoo,G<c,<?>QbGm9/fS>9hUl,/>UbbEblo,h9<U,,?hGoGG9cf<>f//l?chUo/foco<Sf<Plcf<>fG/ho<Gfc>GllU<of<U?,<hhoo<Sc9<?f,lGjhhhSS,hloSo>f/,,ofhSb9UG?Uc,G>9bf>S</fb/cS?>,o,boGll<S,9??Sl ofGcUc,/>UbItll0hbo?GSc<<,bl=Gl,ScSf9>Uh,lh6bUQ/lb<<UhU<,,>?ofGGc9<f>l/??lhUoUG<cb<ofSo<8fh?SG9GUf,f>lbhGUlbSU9SUb,S>Sb<N,l?,<fG/l?fhhohGlcc<U>*/b?ShSSGG,c?,J>GbhQfl>Sh9lUc,b>/bb>GlSS<9,/k?Oh9o9Gfoc<hfl/c?/h/obGocS,9f,/?yVlG,S9fU>,hb,GocS</f<lhooGSoGGfc,/?ffbfP>lGooG/c<<,^ocW<GfhUS99U?,,GGbhZhcc<G?lUb,bhSol<bc/,ff8fZ/o?9hfo>UG,hfU/S*Sl,S<9hUo,h<?>SbGH9lf.S//?bhcU?p,c,bSf?bl?Sh9hXSeG9cf<>/c?cl/Sf</hU/of,b/_<l,S>,GhSbS,>>/blLclUf.Uo?UhG><b,H?ci<bf9/f?>lcU/GccU</fS/o?Sh<<Lf9Uq,9>9bUe>lhSl>c/U,/>oboQ<l<<G9?b9PGh9olG>cl<lfc/U?/ccooG<c<,Gf?bi;Gl9S,9>Uh,l>cbUOolb<<fcU<,?>?o>GGc9<ff>Bl?lhcoUGocb<SfS/<>Gh?S89GUf,f>>bh!lloSU9/Ub,ohFb<k,l?fc/9??hUh>oSGlcc<UUGu,l?SS{>Uf?f,d>ob9Ffl>fG/h,U>SoSG,c<<hfo/hU?ffhGo9Gf<S>/bb-clo/f,/>b,,f,ohS<lcSbflUo?/>cooGbl<<o9</b?blGofG<U>/?fhb9AG9>b,2hh<SU9*UGSo>fSbfUlc?l>o//<cf><f9U/G?cG//GGUUloh>>//,c9hUG9UU<,b<cfU//?blfoSG<c,?Gb/bGr9lfSc9hUl,chboovblSSS9,U,,?hF<G9/cf<hfh/c?chbo/9S/9<S>F/,4flDSG99Uf?<>hbcEcloS/9bUo,Sl/b,j?cv<Gf9/h?>hhoSGccU</fo/o?<h<o,l9Ut,G>9b>.>lhSl9c<9,/>bbo Sc<S,9?/yffofGlc?<S>UblN<lco,?,Uo,/><oG<fnGllSf9>UhfbbS93c<lb</9SU<,,bfGhU/,l9ochjGh?o,9lUl<?>/o /<G>h?SL9GS>>>bcGEl<</fc/,?U>?bwG?l?<<>fbG?flho/9fc/?Q<Uf?/b?ohS9S/f?fhPolGleflSSh9lUcf>oUGGhoS<fo/f?o? hho9Gfc>9G/o?<lSh/o?GocS<<UGNol?<>9c9>l9/UloUcGS9hb,lbUS?/>,b?G2Sffcbl?/l/bh9hlo,/foo9_b?,h,o?9=UG,9>f?<>hllSo9UU/,b/wGbU9<oS?fc/G?9hf?cc<<c>obS?,h,hSoSG<c,<?>XbGfobfS>9<Ul,c>U?/c/<,fhbG?ch,o,oGGlcf<>fh,>hUShG,GScS<S>h/,??laJ,Uo?G><o9z?UGS<So9bUS,S><b,n?c^hGbb<f?hhholGccU</fbUofoh,ofUhoS>G>SJG,,b>SlfGUU,/>b??cG,h>9c9??h<SG9h>ccl?fS/?99G?fhc,UoS<,>?b(TGl9GlUc?chhofG>c9<Uf9cG?o>?oGGScl<l<ff,/h?lhcDoUU,?></?K9hGSp9,/>U9,c>>bhzlb<fc/c?,,o>?b<#,l?f,/l&/?fh?ohGlccG?/,F,f,S>9lUb,fh9blG5IfcGSh9lUcf>oUGG9ob?fhU?LfGkbSzGlG<G<l<lU>ffh/>UGblbGSf,b>-6lGS9l/?l>lofFS^Ul?Sb9oUSf<b?9Gch<?>lff/,?hhlocho,G>fbc!)f,S99fUh,h,9hGb>RhllGbUo?oh/ocGUcl<SflclFfhfSxG/Ghco<cfU//l,S>fFU/,f<?>fbGN9lfGQ/>,<,U>Ub/ibloSS,<,b9?hPobG9cf<>U/?ol?SSAhco<<>Gb//?hbWfc/,G=bbbGc,hzcl<S/9bUo>G/GGccSb9<Gfb/f?>hh?/c?</><hb,9hGblo,9UUD,G>9?fcYSlf?US?bfRo?G>LSc/S,9?/#ffSG9hcU<b>Ucb-clhS/9<>?c<,ff?b*6G<99>U<?ch/>coFx/lbSoUQ?9llSfZfcb,SfUfh/h?lhcoUG/cb<ofS/,?,h?SP9GU9,fcS,hyclcSU9/Ub,obSGl>,l?<bfG/9?fbUGbU,,oGbb,F,l?So9oG?h9bh/hU9&G,hlGlhUc?^>/bbkoohfobG;fhGo?GhcUc><ofl/c?U/S9/Uc,o>?cGbH>fZ9,f,fSl?o9U,l#UcoSb9oUS>qoG9Gc?<<f,ch?hlcbbG?UG<S>hb/pGc8<Go?9?UG,9>f,lc><U9oU<?of<o>9lc9o,fUbU?lh,hfo,Ghcl<cco?blU<GG</2<G>Uob=l)flfS>9hUl,cUU?b>blo<h9<U,,?/>9fcf<bfo/l?Ulfo<obGbco<Sf</,??US8G99Uc,>>hblhb<G>fU?Uo?Q><b,t?o<fbbr?S?h<obou/ocobo>f?foh<S9G?Ur,Gb/#>cGSbSlf+UU,/>b?,l?<?ff/>?,fUScGSG>cS<lfc/UfSS/9/Ub,9>GofbG-Gl9Sf9>Uh,lho,UxbSlUl>lU<,,hb<<<ec9<bf>/h?l/b9Ncb,,99oG_l?,l?SC9GU9fpofGbc/SS8b/,?,h?ooGof?off?bUyN?>h>ohGlcc<Uf//bfohSSUG,c?,5U<GGllShfGcl?f>/S9O?c<lS<f9,U??&/9GhUc<<>o/o/c??h/obGoSS>//?GUlh<ffh9/U>,h>lbUQUl/Sb9o/f,<>,b?h><l>hbc!ll>S?ocGUc/<bf?/S?<h,o?f,UG,9>fb>vhllSc>USG,b>obSR<l,<gfB/Glfhfo>GhcU<cf///?b/,oSG<c,,V>vbGi9lfSh9hUl,c>Ub?WbloSS/S{flfS39lUlcf<>fh/l?ShUo/GbU<h<f</???lGSG99Uf,>h?bl5/lUS/9bUo,S><o>:?cf<Gf9/f?>hhol9/cU<bfb/,?Sh,o,G?/9,G>9bfthlhSl9cU/G>>bborSl<,>9?/p?GblGUUS,/9/boEblUSh9xck,?f?b<GfcGSffhU/?f>/S(b/#/lbSo9SU<,,lo?WGGcl<ff>/h>/S8f9c,cb<<fS/<?,U,fc99U9,f>>bhjl>cfcl/Uo,o>Sb<N,l?<:fG/9?fhUohGlccG<bcB?lUhSSGG,c?,2U?3fcQS/Sh9oUc,U>/</c?<G9,/oU??,hGo9GfSUfbb,.ohz/b9lU>,f>obo2>l,<hS99SU>,h>l?ol<,Gf,cc,<>?ofGoGNcc<9ff/>lUSb9/UG,c>GfobS?<h,o?l9,9>hb,Cocc<hfS/l,<9<obGUcS,&M9f{bT?9hfo>hc,h>//S?,lSb,9h/c,f9?b/G/lcS?S>fhUl,c>U,Scl<>fSbk<9h>SfG>cc,GfU/lW>loSoooGocS<Sf</,??lCSG99Sf,>><bl{clU?UbG?fhhSiG,c>,9<9bocSGbUlo,Sf?>GUfo/o?Sh<o,G?UV<GUGbf&SlhSl9c<UhUo<G>UN<lf</</G?Gh9ofG>ch<lGc<c?bhbooGSc<<,f?o>>Gl9Sc9>Uh,l/o5<UG<,So9<U<,,>?,oGGc><ff>/hf#ccoU9?cb<ofS<?h?S99oUU?>h9o/GflboofbUb?Uh,oS:,Ug<>f,/>No?fhlohGlccjcb</b hhSo<G,<f>ho/Gl>l<ffG/h?/Go>/o9YolSS<c>?,h,ShzhcS,,fbfl/<?Uh/obl,,hhcbf<jf>lG<>9fU>,h//Glc<<o9</y<?>,oS99lf<lf?/S?ll>S9GoGUUH<bfo/Slf<_9,U<<f9/Uhb>;/llSc9US?h/o/9xt<cbS?f2/Gf>S99lc/<o>/co;UllSb9,hBc,,3>jbGP9/<S>9oUl,c>U,Sc/<cfo/?SG,?hhoGG9cf9/c/??l>UbobG>?/>l?/G9/9<UxO99Ul,>>hblchS<>O9bU?,S><b,ho<hfcbl/f?ShholGcSG>cb<*?h<So9GU>U ,>>9bfQ><UfoU/UU,/>bbo/Sl<S,9?/jI?h9ohG>ch<lfc/U??/SooG,c<,9f?bG-Gl9Sf9U,U,l>cbUH<lbSS9S/GhG>?o*GGcc<ffh/h?l/boUG/cb<SfS/<?,cG>h9GU>,fl/bhjllc,U?fUb,<>Sb?Z,/6<6>fbl?fhcohGocc<Uf/bS?,hSSGG,U>,q>Gb9Ghl,Sh9oUc,<>/bbpolS<f9,/G?6hlo9Ghc>,c>2/c?oh/SlGocS<<h,olial>S99lU>GK>lbc9bl/S,9oU<,<>,b?99c/<9fU/>P/hlocGUUo,Ufob9?<c9o?9xUG,9hbb>_UllS<9UUo,bcGo?g<cGS?>S/G?fhf<UGhcbfbfU//?bccoSG,c,?GShbG6hlf<I9hUl,clUh9}bl,SSfkU,Gbh;oGG<cf<Ufh/c?chUo/9SU9<S>9/,Gfl^SG99/h?f>hbSRccSS/9bUo,Shhb,G9cL<cf9/h?>coSUGcco</hl/o?<h<<cG?U>>>>9bfF>UGSl9UUU,<b<boRSl<?99?/G?Gl>fUG>cU<lhS/U?/hb<ohcc<,Gf?bf^GUfSffl/o,l>obU(,lbSo9S/??U>?ohGGcU<ff>/hjUlFoUG?cb,GfS/<?,h?<b9GUh,f>bbhuUlcSU>GUb,<>So)n,l?<Dfhbc?fh>ohlocc</f/bSUVhSSTG,Uo,x>Gb99f?>Sh9/Uc,o>/<hjolS<,9,/f?7h9o9Gfc>,c>//c?<h/S,GocS<<h*bS_AlcS9f>U>,h>lbc90l/S<9o/9,<h3b?flU<<9fl/>99hloUGUc<<bf????<h,o?><UG,f>fbUlUllSc9US?,b>SbSG??fS?ff/G?,hfo>Gh/llcfU/S?bh,oS>Uc,<?>,bGullfSh9hUl,chbo<%bc SS>GU,,?heSfGUcf<bfh/U?chUo/GbU/<S>e/,MhlaSf99b/?^>hb/Fc/,S/9oUo?,><o9c9cA<Gf9S/?>hlolGo<o</fb/o>9h<o?G?/9ll>9blF>cGSl9cUUq/?fbo(?l<<G9?oo?Gh9S?G>c/<lfU/U?/hbS<fGc<,ff?o>7Gl9SfflU<,l><bU9YlbSo9SU<Zb>?ofGGcU<ffl/hGShooUGScb9GfS/,?,lUSv9h,h,f>>bh>SlcS/9//ScQ>So(E,co<0fG/9Gf,>ohG/cc<of/Sh?ohS<9G,Uf,Y>9b9rfl><c>9Uc,<>/o,{olSS<>Vbc?ghco99>c><hfl/cG>h/o<GoU9<<>{/?9lcGS99lU>ff>lbU&UUhSb9?,?,<>,b?h,cG<fffblcbhlobGU/,<bfo/SG<//o?9fUG,h>fShmhcU<c9UU<,bhGbS0<l,,Gf//G?chfobGhcl<c>b/,?blGoS99c,<?>ObGGvlfSc9hUS,c>bb/!bcfSS9?U,?9hQoGG9cc</fh/l?cb<o/Goco,,S9/,z9l%,l99Uf,>lho>TcloS/9<UoD<><SV9/cL<hf9/U?>hhol9/Uc</f?/ojGh<o,G?/9?o>9b/R>lbSl9cUU,/llbok?l<<>9?/9?Gh9SUG>cc<lfb/U?/hbS<bGc<,Gf?Sb^Gl9Sf>>,h,l>bbU0Slb?f9S/?KU>?o>GGc<<ff>/h?llcoUG,cb<SfS/<?,h?S>9GUh,f>/bhXUlc,UffUb,?>Sb<k,cc<%>f/S?fh/ohfTcc<Uf//bLohSSfG,Uz,%>Gb9HfU/Sh9bUc,S>/o2MocSc,9,/9?Zl/o9Gcc>,c></c?Sh/,6GocS<<h,oSY_lhS99cU>&<>lo/Gol/S?9ob9,<>,b?99UP<9f//>?ohlocGUUo,vfobf?<Uho?9FUG?>hlb>8<llS<9UU/,b>ofbp<c9S?fU/G?>hfS>Shcl<bfU/S?bh?oS9?UG<?>>bG9UlfS>9hblvQ>Ub<^bl?SShhU,BGhhoGGccf<bfh/l?clb<fGbUG<S>f/,??lrSG9fUf,o>hbU!clUS/fb/h,Sh>b,99cM<Uf9bhoGhho,Gcc,</fb/o?Soho,9fUd,/>9bht>ch<G9cUo,/h?boGJl<,i>>/Q?hh9obG>ch<lhcof?/h,oo9}c<qAf?SCGUl9Sc9>U/,llcbUG/UGSo9?U<G2>?o>GGU9,Uf>/U?lc>oUGocb#obb/<TGh?SG9GUU,fc>tfHllbSU>>Ub?G>So?GSl?<>fGoc?fh>ohflco<Uf</b??hS,hG,/G?<>GbctflbSh9lUc?bl9bbGGlS<f9,U??mlfSUGfco<hfS/c?Uh/obffcS,Gf,blDrlfS9ffS?,h>/bcGhl/S,9ooS?h>,o9Gmc?<9f//>wchoocGSc/??fo/S?<c,<f9&Uh,9>cb>9<ll</9/U/,?>oo9M<l,S?>9b<?9h/o>Gocl<cfUboG>hoSfG<U><?>_bG69?GS>9/Ul,,>UboCbcohU9</G,?cfoGGlcfX>>l/l?bhU<cGb/b<S>?b/??l>SG9/Uf,>>hSlGolUS<9bU?,Shcb,9?Uc<Gfl/f?Uhh<?GcUU,>fb/,?Slco,9fU+GG>,bftclh<h9c/U,/>bbSpScGS,fG/I?Gh9<f<7ch<bfc/S?/l<ooGS//<,>fbd%fl9Sf9>Uh9/>cbUD/loSo9SU<?Oh9oQGGc9<f>G/h?lhcR>UU,G?oc?Ihh?<f,icS<GfGbGbhG>lcSU9/<lhbofS<hG<cfGbho9>,bf?ohS<><Uf</b?ohSGGUf?ch>>Gb9rfl><99lUc,U>/>oxolSS<9,U??khGo9G>c><hfl/c?Uh/obGo/U<<f,/?eOlGS99fU>EG>lbcqUl/Sb9oUS?fhGb?G#cG</ff/
+
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("RoBloX_Scripter", "BloodTheme")
+
+--New Tab
+
+local Tab = Window:NewTab("Script lt2")
+
+ Section = Tab:NewSection("Lumber tycoon 2")
+
+Section:NewButton("Ancestor", "lt 2", function()
+
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/MrDizzler1/Ancestor/main/AncestorPublic"))()
+end)
+
+Section:NewButton("Dupe Step Lt 2", "lt2", function()
+
+loadstring(Game:HttpGet("https://bit.ly/StepScripts"))("StepLT2")
+end)
+
+Section:NewButton("lua were V4.3", "lt2", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/frencaliber/LuaWareLoader.lw/main/luawareloader.wtf",true))()
+end)
+
+Section:NewButton("Lumber tycon 2 [PAINT TOOL, AUTO-DUPE, GAME MODS}", "lt2", function()
+
+loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('bark > blood :)')
+end)
+
+Section:NewButton("TOADS", "lt2", function()
+
+game:HttpGet("https://getexploits.com/cexecution/662418011558531072")
+
+loadstring(game:HttpGet("https://bit.ly/3x90l99"))("TOADS")
+end)
+
+Section:NewButton("Dark X[auto filler,Wood,walk]", "universal", function()
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/darkxwin/darkxsourcethinkyoutousedarkx/main/darkx")()
+end)
+
+
+
+local Tab = Window:NewTab("universal")
+
+Section = Tab:NewSection("Script")
+
+Section:NewButton("Universal fly another", "universal", function()
+
+loadstring(game:HttpGet(('https://pastebin.com/raw/TSjdP9mj'),true))()
+end)
+
+Section:NewButton("Mobile fly gui", "universal", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+end)
+
+Section:NewButton("Universal Wall Walkers", "universal", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MariyaFurmanova/Library/main/un_WalkWalkers", true))()
+end)
+
+Section:NewButton("Universal Permanent Shift Lock", "universal", function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/CjNsnSDy'))()
+end)
+
+Section:NewButton("Universal FE Emotes", "universal", function()
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FEmotesGui/main/FEmotesGui.lua", true))()
+end)
+
+Section:NewButton("Universal Anti Ban message ", "universal", function()
+
+--[[Made by ThroughTheFireAndFlames#9925 |
+
+         Anti Report [Universal]
+
+--]]------------------------------------
+
+getgenv().ForbiddenWords = {"hack","exploit","script","report","cheat","executor","skid","owner","creator","admin","staff","anti","mod"} -- Listens to these keywords no matter if they are capital letters or not
+
+getgenv().Reaction = function() -- Serverhopper: Was not made by me but used rightfully as a open source tool for everyone to look at.
+        local HttpService, TPService = game:GetService("HttpService"), game:GetService("TeleportService");
+        local OtherServers = HttpService:JSONDecode(game:HttpGet("https://games.roblox.com/v1/games/" .. game.PlaceId .. "/servers/Public?sortOrder=Asc&limit=100"));
+        function joinNew()
+                if not isfile("servers.sss") then
+                        writefile("servers.sss", HttpService:JSONEncode({}));
+                end
+                local dontJoin = readfile("servers.sss");
+                dontJoin = HttpService:JSONDecode(dontJoin);
+                for Index, Server in next, OtherServers['data'] do
+                        if (Server ~= game.JobId) then
+                                local j = true;
+                                for a, c in pairs(dontJoin) do
+                                        if (c == Server.id) then
+                                                j = false;
+                                        end
+                                end
+                                if j then
+                                        table.insert(dontJoin, Server['id']);
+                                        writefile("servers.sss", HttpService:JSONEncode(dontJoin));
+                                        wait();
+                                        return Server['id'];
+                                end
+                        end
+                end
+        end
+        local server = joinNew();
+        if not server then
+                writefile("servers.sss", HttpService:JSONEncode({}));
+                local server = joinNew();
+                TPService:TeleportToPlaceInstance(game.PlaceId, server);
+        else
+                TPService:TeleportToPlaceInstance(game.PlaceId, server);
+        end
+end;
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/AntiReport/main/Universal"))()
+end)
+
+Section:NewButton("universal radar", "universal", function()
+
+-- Player Radar = Check this scripts description for shortcuts! Enjoy the script!
+_G.RadarSettings = {
+    --- Radar settings
+    RADAR_LINES = true; -- Displays distance rings + cardinal lines 
+    RADAR_LINE_DISTANCE = 50; -- The distance between each distance ring
+    RADAR_SCALE = 1; -- Controls how "zoomed in" the radar display is 
+    RADAR_RADIUS = 125; -- The size of the radar itself
+    RADAR_ROTATION = true; -- Toggles radar rotation. Looks kinda trippy when disabled
+    SMOOTH_ROT = true; -- Toggles smooth radar rotation
+    SMOOTH_ROT_AMNT = 30; -- Lower number is smoother, higher number is snappier 
+    CARDINAL_DISPLAY = true; -- Displays the four cardinal directions (north east south west) around the radar
+    
+    --- Marker settings
+    DISPLAY_OFFSCREEN = true; -- Displays offscreen / off-radar markers
+    DISPLAY_TEAMMATES = true; -- Displays markers that belong to your teammates
+    DISPLAY_TEAM_COLORS = true; -- Displays your teammates markers with either a custom color (change Team_Marker) or with that teams TeamColor (enable USE_TEAM_COLORS) 
+    DISPLAY_FRIEND_COLORS = true; -- Displays your friends markers with a custom color (Friend_Marker). This takes priority over DISPLAY_TEAM_COLORS and DISPLAY_RGB
+    DISPLAY_RGB_COLORS = false; -- Displays each marker with an RGB cycle. Takes priority over DISPLAY_TEAM_COLORS, but not DISPLAY_FRIEND_COLORS
+    MARKER_SCALE_BASE = 1.25; -- Base scale that gets applied to markers
+    MARKER_SCALE_MAX = 1.25; -- The largest scale that a marker can be
+    MARKER_SCALE_MIN = 0.75; -- The smallest scale that a marker can be
+    MARKER_FALLOFF = true; -- Affects the markers' scale depending on how far away the player is - bypasses SCALE_MIN and SCALE_MAX
+    MARKER_FALLOFF_AMNT = 125; -- How close someone has to be for falloff to start affecting them 
+    OFFSCREEN_TRANSPARENCY = 0.3; -- Transparency of offscreen markers
+    USE_FALLBACK = false; -- Enables an emergency "fallback mode" for StreamingEnabled games
+    USE_QUADS = true; -- Displays radar markers as arrows instead of dots 
+    USE_TEAM_COLORS = false; -- Uses a team's TeamColor for marker colors
+    VISIBLITY_CHECK = false; -- Makes markers that are not visible slightly transparent 
+    
+    --- Theme
+    RADAR_THEME = {
+        Outline = Color3.fromRGB(35, 35, 45); -- Radar outline
+        Background = Color3.fromRGB(25, 25, 35); -- Radar background
+        DragHandle = Color3.fromRGB(50, 50, 255); -- Drag handle 
+        
+        Cardinal_Lines = Color3.fromRGB(110, 110, 120); -- Color of the horizontal and vertical lines
+        Distance_Lines = Color3.fromRGB(65, 65, 75); -- Color of the distance rings
+        
+        Generic_Marker = Color3.fromRGB(255, 25, 115); -- Color of a player marker without a team
+        Local_Marker = Color3.fromRGB(115, 25, 255); -- Color of your marker, regardless of team
+        Team_Marker = Color3.fromRGB(25, 115, 255); -- Color of your teammates markers. Used when DISPLAY_TEAM_COLORS is disabled
+        Friend_Marker = Color3.fromRGB(25, 255, 115); -- Color of your friends markers. Used when DISPLAY_FRIEND_COLORS is enabled 
+    };
+}
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/topitbopit/stuff/main/PlayerRadar/source.lua'))()
+end)
+
+Section:NewButton("Universal Bypasser Dark Dex", "universal", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua", true))()
+end) 
+
+Section:NewButton("Universal FE Zoom", "universal", function()
+
+loadstring(game:HttpGet(('https://pastefy.ga/Rmbg6Zxh/raw'),true))()
+end)
+
+Section:NewButton("Universal lag server", "universal", function()
+
+--[[
+
+Universal lag script
+This is completely free, if anyone tried to sell you this, they were scamming you.
+
+--]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhlpy/Universal/main/Lag%20Script", true))()
+end)
+
+Section:NewButton("Universal see chat logs", "universal", function()
+
+-- Farewell Infortality.
+-- Version: 2.82
+-- Instances:
+local ChatGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local LogPanel = Instance.new("ScrollingFrame")
+local Close = Instance.new("TextButton")
+local Mini = Instance.new("TextButton")
+local Log = Instance.new("TextButton")
+local title = Instance.new("TextLabel")
+--Properties:
+ChatGui.Name = "ChatGui"
+ChatGui.Parent = game.Players.LocalPlayer.PlayerGui
+ChatGui.ResetOnSpawn = false
+
+Frame.Parent = ChatGui
+Frame.BackgroundColor3 = Color3.new(0, 0, 0)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.0278396439, 0, 0.565217376, 0)
+Frame.Size = UDim2.new(0, 392, 0, 25)
+Frame.Active = true
+Frame.Draggable = true
+
+LogPanel.Name = "LogPanel"
+LogPanel.Parent = Frame
+LogPanel.BackgroundColor3 = Color3.new(0, 0, 0)
+LogPanel.BorderColor3 = Color3.new(0.223529, 0.223529, 0.223529)
+LogPanel.Position = UDim2.new(-0.000221580267, 0, 0.968695641, 0)
+LogPanel.Size = UDim2.new(0, 392, 0, 203)
+LogPanel.ScrollBarThickness = 5
+LogPanel.ScrollingEnabled = true
+LogPanel.CanvasSize=UDim2.new(2,0,100,0)
+
+Close.Name = "Close"
+Close.Parent = Frame
+Close.BackgroundColor3 = Color3.new(1, 1, 1)
+Close.BackgroundTransparency = 1
+Close.Position = UDim2.new(0.823979557, 0, 0.0399999991, 0)
+Close.Size = UDim2.new(0, 69, 0, 24)
+Close.Font = Enum.Font.SourceSans
+Close.Text = "Close"
+Close.TextColor3 = Color3.new(1, 1, 1)
+Close.TextSize = 14
+
+Mini.Name = "Mini"
+Mini.Parent = Frame
+Mini.BackgroundColor3 = Color3.new(1, 1, 1)
+Mini.BackgroundTransparency = 1
+Mini.Position = UDim2.new(0.647959173, 0, 0, 0)
+Mini.Size = UDim2.new(0, 69, 0, 24)
+Mini.Font = Enum.Font.SourceSans
+Mini.Text = "Minimize"
+Mini.TextColor3 = Color3.new(1, 1, 1)
+Mini.TextSize = 14
+
+Log.Name = "Log"
+Log.Parent = Frame
+Log.BackgroundColor3 = Color3.new(1, 1, 1)
+Log.BackgroundTransparency = 1
+Log.Position = UDim2.new(0.293367326, 0, 0, 0)
+Log.Size = UDim2.new(0, 69, 0, 24)
+Log.Font = Enum.Font.SourceSans
+Log.Text = "Log Chat [ON]"
+Log.TextColor3 = Color3.new(1, 1, 1)
+Log.TextSize = 14
+
+title.Name = "title"
+title.Parent = Frame
+title.BackgroundColor3 = Color3.new(1, 1, 1)
+title.BackgroundTransparency = 1
+title.Size = UDim2.new(0, 115, 0, 24)
+title.Font = Enum.Font.SourceSans
+title.Text = "Chat GUI"
+title.TextColor3 = Color3.new(1, 1, 1)
+title.TextSize = 14
+title.TextXAlignment = Enum.TextXAlignment.Left
+-- Scripts:
+local logging = true
+local minimized = false
+Log.MouseButton1Down:Connect(function()
+	logging = not logging
+	if logging then Log.Text = "Log Chat [ON]" else Log.Text = "Log Chat [OFF]" end
+end)
+Mini.MouseButton1Down:Connect(function()
+	if minimized then
+		LogPanel:TweenSize(UDim2.new(0, 392, 0, 203), "InOut", "Sine", 0.5, false, nil)
+	else
+		LogPanel:TweenSize(UDim2.new(0, 392, 0, 0), "InOut", "Sine", 0.5, false, nil)
+	end
+	minimized = not minimized
+end)
+Close.MouseButton1Down:Connect(function()
+	ChatGui:Destroy()
+end)
+
+local prevOutputPos = 0
+function output(plr, msg)
+	if not logging then return end
+	local colour = Color3.fromRGB(255,255,255)
+	
+	if string.sub(msg, 1,1) == ":" or string.sub(msg,1,1) == ";" then colour = Color3.fromRGB(255,0,0) elseif string.sub(msg,1,2) == "/w" or string.sub(msg,1,7) == "/whisper" or string.sub(msg,1,5) == "/team" or string.sub(msg,1,2) == "/t" then colour = Color3.fromRGB(0,0,255) else colour = Color3.fromRGB(255,255,255) end
+	
+ 	local o = Instance.new("TextLabel",LogPanel)
+ 	o.Text = plr.Name .. ": " .. msg
+ 	o.Size = UDim2.new(0.5,0,.006,0)
+ 	o.Position = UDim2.new(0,0,.007 + prevOutputPos ,0)
+ 	o.Font = Enum.Font.SourceSansSemibold
+ 	o.TextColor3 = colour
+ 	o.TextStrokeTransparency = 0
+ 	o.BackgroundTransparency = 0
+	o.BackgroundColor3 = Color3.new(0,0,0)
+ 	o.BorderSizePixel = 0
+	o.BorderColor3 = Color3.new(0,0,0)
+ 	o.FontSize = "Size14"
+	o.TextXAlignment = Enum.TextXAlignment.Left
+ 	o.ClipsDescendants = true
+	prevOutputPos = prevOutputPos + 0.007
+	end
+
+for i,v in pairs(game.Players:GetChildren()) do
+	v.Chatted:Connect(function(msg)
+		output(v, msg)
+	end)
+end
+
+game.Players.ChildAdded:Connect(function(plr)
+	if plr:IsA("Player") then
+		plr.Chatted:Connect(function(msg)
+			output(plr, msg)
+		end)
+	end
+end)
+end)
+
+
+Section:NewButton("fake join groups", "universal", function()
+
+hookfunction(game.Players.LocalPlayer.IsInGroup, function() return true end)
+end)
+
+
+Section:NewButton("Universal Sword Auto Killer", "universal", function()
+
+--// Setting \\--
+local range = 1100
+
+--// Variable \\--
+local player = game:GetService("Players").LocalPlayer
+
+--// Script \\--
+game:GetService("RunService").RenderStepped:Connect(function()
+    local p = game.Players:GetPlayers()
+    for i = 2, #p do local v = p[i].Character
+        if v and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 and v:FindFirstChild("HumanoidRootPart") and player:DistanceFromCharacter(v.HumanoidRootPart.Position) <= range then
+            local tool = player.Character and player.Character:FindFirstChildOfClass("Tool")
+            if tool and tool:FindFirstChild("Handle") then
+                tool:Activate()
+                for i,v in next, v:GetChildren() do
+                    if v:IsA("BasePart") then
+                        firetouchinterest(tool.Handle,v,0)
+                        firetouchinterest(tool.Handle,v,1)
+                    end
+                end
+            end
+        end
+    end
+end)
+end)
+
+Section:NewButton("Esp,Viver,lock", "universal", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MichaelScripter/MiniScript/main/Spy%20gui.lua"))()
+
+end)
+
+
+   
+
+
+
+
