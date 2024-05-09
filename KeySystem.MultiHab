@@ -5,7 +5,7 @@ Lib.CreateUI({
     KeyUrl = "https://pastebin.com/savCpnUr",
     Key = "H3BIEJr$4fkq",
     Callback = function()
-https://raw.githubusercontent.com/AGENTIR006/Key20-system20-Multi-20Hub20-/main/MultiHab.lua.Mobile
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/AGENTIR006/Key20-system20-Multi-20Hub20-/main/MultiHab.lua.Mobile"))()
 
         print("Multi Hub Loaded!")
     end
